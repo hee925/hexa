@@ -255,3 +255,5 @@ f(x) = \frac{1}{2}x\bigg(1 + erf\Big(\frac{x}{\sqrt{2}}\Big)\bigg)
 $$
 
 ## 6. 역사
+
+시험
